@@ -14,9 +14,60 @@
 
 ## Опции
 
-- Download the official MoggyDay Valor Mortis trainer +54: catalysts
-- ambers
-- parry
+- God Mode
+- Infinite Health
+- Infinite Stamina
+- Perfect Parry
+- Infinite Parry Window
+- No Plague Damage
+- Edit Health
+- Edit Stamina
+- Infinite Catalysts
+- Edit Catalysts
+- Keep Catalysts On Death
+- Infinite Ambers
+- Unlock All Ambers
+- Max Lantern Stats
+- Infinite Fire Transmutation
+- Infinite Shield Transmutation
+- Infinite Grapple
+- No Transmutation Cooldown
+- Unlock All Transmutations
+- Infinite Musket Ammo
+- Infinite Pistol Ammo
+- Infinite Weapon Durability
+- Unlock All Weapons
+- Unlock Claymore
+- Unlock Musket
+- Super Damage
+- One Hit Kill
+- Freeze Enemies
+- Instant Finisher
+- Super Speed
+- Super Grapple Range
+- No Fall Damage
+- No Clip
+- Edit Level
+- Exp Multiplier
+- Unlock All Abilities
+- Unlock All Areas
+- Reveal Secrets
+- Freeze Time
+- Set Game Speed
+- Slow Motion
+- Save Position
+- Load Position
+- Instant Rest at Lantern
+- No Eternal Guard Aggro
+- Unlock All Outfits
+- Max Parry Stat
+- Infinite Heavy Attacks
+- Unlock Story Paths
+- Skip Boss Phase
+- Infinite Items
+- Max Stack Size
+- Unlock All Lore
+- No Corruption Buildup
 
 ## Куда жать
 
